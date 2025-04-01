@@ -17,7 +17,7 @@
     
     separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Conceptos y elementos de los Impuestos
     
     .bg-full-width.bg-color-2.mb-5
@@ -105,8 +105,8 @@
 
     separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Estructura y clasificación de los impuestos:
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.2 Estructura y clasificación de los impuestos
     
     p.mb-4 Continuamos con la clasificación y estructura de los impuestos, donde se analizará cada uno de estos, teniendo en cuenta sus características y requisitos.
 

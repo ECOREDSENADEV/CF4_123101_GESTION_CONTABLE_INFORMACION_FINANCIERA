@@ -16,7 +16,7 @@
 
     separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 De acuerdo con normativa
 
     .bg-full-width.bg-color-2
@@ -45,7 +45,7 @@
     
     separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Contribuyente y declarante
     
     p.mb-4 El concepto de contribuyente y declarante es clave en el sistema tributario, ya que define quiénes están obligados a pagar impuestos y presentar declaraciones.
@@ -64,10 +64,10 @@
       .px-4.px-md-5.py-4
         p.mb-4 A este régimen pertenecen las personas naturales y jurídicas, sucesiones ilíquidas que al cumplir los requisitos establecidos en la norma legal vigente deben ser declarantes del impuesto de renta y sus complementarios. En el caso de las personas naturales, que no cumplan con los requerimientos establecidos se consideran no declarantes del impuesto de renta y sus complementarios.
         .row.mb-5.justify-content-center
-          .col-lg-4.order-2.ps-0
+          .col-lg-4.order-2.ps-lg-0
             figure
               img(src="@/assets/curso/tema2/4.svg", data-aos="zoom-in")
-          .col-lg-6.order-1.mb-3.mb-lg-0.pe-0
+          .col-lg-6.order-1.mb-3.mb-lg-0.pe-lg-0
             div.bg-color-9.p-5.mb-5(data-aos="fade-right")
               h5 Algunos de los contribuyentes de este régimen son: 
               ul.lista-ul--color.mb-0
@@ -102,20 +102,20 @@
       .px-4.px-md-5.py-4
         p.mb-4 Este régimen considera como un contribuyente al impuesto de renta y sus complementarios; sin embargo, tiene un tratamiento especial referente al sistema ordinario.
         .row.mb-5.justify-content-center
-          .col-lg-4.order-2.ps-0
+          .col-lg-4.order-2.ps-lg-0
             figure
               img(src="@/assets/curso/tema2/5.svg", data-aos="zoom-in")
-          .col-lg-6.order-1.mb-3.mb-lg-0.pe-0
+          .col-lg-6.order-1.mb-3.mb-lg-0.pe-lg-0
             div.bg-color-9.p-5.mb-5(data-aos="fade-right")
               h5.mb-5.mt-3 Dentro de esta clasificación encontramos: 
               p Todas las asociaciones, fundaciones y corporaciones constituidas como entidades sin ánimo de lucro.
         p.mb-4 Excepcionalmente, podrán solicitar ante la administración tributaria, de acuerdo con el artículo 356-2, su calificación como contribuyentes del Régimen Tributario Especial, siempre y cuando cumplan con los requisitos que se enumeran a continuación:
     
     .row.mb-5.justify-content-center
-      .col-lg-4.order-2.ps-0
+      .col-lg-4.order-2.ps-lg-0
         figure
           img(src="@/assets/curso/tema2/6.svg", data-aos="zoom-in")
-      .col-lg-6.order-1.mb-3.mb-lg-0.pe-0
+      .col-lg-6.order-1.mb-3.mb-lg-0.pe-lg-0
         div.bg-color-9.p-5.mb-5(data-aos="fade-right")
           h5.mb-3 Algunos de los contribuyentes de este régimen son: 
           ol.lista-ol--cuadro
@@ -218,10 +218,10 @@
 
         h5.mb-5 De acuerdo con el artículo 22 del Estatuto Tributario (ET) se encuentran
         .row.mb-5.justify-content-center
-          .col-lg-5.order-2
+          .col-lg-5.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema2/11.svg", data-aos="zoom-in")
-          .col-lg-7.order-1.mb-3.mb-lg-0
+          .col-lg-7.order-lg-1
             ul.lista-ul--color.mb-0
               li.mb-5.d-flex
                 i.far.fa-folder-open.bg-color-14
@@ -244,7 +244,7 @@
     
     separador
 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Responsabilidades
 
     p.mb-4 El Registro Único Tributario, RUT, administrado por la Dirección de Impuestos y Aduanas Nacionales –DIAN-, constituye el mecanismo único para identificar, ubicar y clasificar las personas y entidades sujetos de obligaciones administradas por la Dirección de Impuestos y Aduanas Nacionales, respecto de los cuales esta requiera su inscripción.
